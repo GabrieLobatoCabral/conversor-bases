@@ -1,18 +1,26 @@
 # Conversor de bases
 
 <div align= "center">
-<img src="https://github.com/GabrieLobatoCabral/conversor-bases/assets/113934416/b26df971-863d-4915-8d05-5ff9c784388b" width="400px" />
+<img src="https://github.com/GabrieLobatoCabral/conversor-bases/assets/113934416/b26df971-863d-4915-8d05-5ff9c784388b" width="600px" />
 </div>
 
-O programa começa com uma exibição do título e logotipo do "Conversor de Bases". Em seguida, o usuário é solicitado a escolher o tipo de valor que deseja converter, podendo escolher entre binário (1), hexadecimal (2) ou decimal (3).
+> Estudo de C++
 
-<div align= "center">
-<img src="https://github.com/GabrieLobatoCabral/conversor-bases/assets/113934416/569f2009-acc7-48f1-bcd0-4ba0d9eb500f" width="400px" />
+Este é um programa útil e simples para a conversão de números em diferentes bases e pode ser facilmente modificado para lidar com outras bases.
+
+
+## 🛠️ Tecnologias
+
+</div>
+<div style="display: inline_block"><br>  
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-Cada tipo de conversão é tratado em um bloco de código separado, com uma verificação de erro para garantir que o valor inserido pelo usuário está correto. Se a opção binária for escolhida, o usuário deverá escolher entre hexadecimal ou decimal para a conversão, enquanto se a opção hexadecimal for escolhida, o usuário deverá escolher entre binário ou decimal.
+## 📲 Contato
 
-Em geral, este é um programa útil e simples para a conversão de números em diferentes bases e pode ser facilmente modificado para lidar com outras bases.
+<div> 
+  <a href="https://instagram.com/aprendizjva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cabral.gabriel118@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-cabral-9b2b69193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Contribuição 😁
-Contribuições são sempre bem-vindas! Sinta-se livre para fazer um fork deste repositório e submeter suas melhorias por meio de um pull request.
+</div>
